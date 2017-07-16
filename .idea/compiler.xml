@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringCloundDemon-config" />
+        <module name="SpringCloundDemon-disconvery" />
+        <module name="SpringCloundDemon-monitor" />
+        <module name="SpringCloundDemon-person" />
+        <module name="SpringCloundDemon-some" />
+        <module name="SpringCloundDemon-ui" />
+        <module name="SpringCloundDemondisconvery" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringCloundDemon-config" target="1.6" />
+      <module name="SpringCloundDemon-disconvery" target="1.6" />
+      <module name="SpringCloundDemon-monitor" target="1.6" />
+      <module name="SpringCloundDemon-parent" target="1.6" />
+      <module name="SpringCloundDemon-person" target="1.6" />
+      <module name="SpringCloundDemon-some" target="1.6" />
+      <module name="SpringCloundDemon-ui" target="1.6" />
+      <module name="SpringCloundDemondisconvery" target="1.5" />
+      <module name="SpringCloundDemonparent" target="1.5" />
+      <module name="SpringCloundDemonui" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

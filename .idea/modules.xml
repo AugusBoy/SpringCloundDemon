@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-config/SpringCloundDemon-config.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-config/SpringCloundDemon-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-disconvery/SpringCloundDemon-disconvery.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-disconvery/SpringCloundDemon-disconvery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-monitor/SpringCloundDemon-monitor.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-monitor/SpringCloundDemon-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-parent/SpringCloundDemon-parent.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-parent/SpringCloundDemon-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-person/SpringCloundDemon-person.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-person/SpringCloundDemon-person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-some/SpringCloundDemon-some.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-some/SpringCloundDemon-some.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloundDemon-ui/SpringCloundDemon-ui.iml" filepath="$PROJECT_DIR$/SpringCloundDemon-ui/SpringCloundDemon-ui.iml" />
+    </modules>
+  </component>
+</project>
